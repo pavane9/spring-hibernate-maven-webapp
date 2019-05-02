@@ -153,7 +153,7 @@
 	</build>
 	<distributionManagement>
         <repository>
-            <id>releases</id>
+            <id>maven-releases</id>
             <url>http://35.224.71.129:8081/repository/maven-releases/</url>
         </repository>
     	</distributionManagement>

@@ -152,10 +152,10 @@
             </plugins>
 	</build>
 	<distributionManagement>
-   	 <releaseRepository>
+   	 <repository>
      		<id>maven-releases</id>
       		<url>http://35.225.225.19:8081/repository/maven-releases/</url>
-    	 </releaseRepository>
+    	 </repository>
     	<snapshotRepository>
       		<id>maven-snapshots</id>
       		<url>http://35.225.225.19:8081/repository/maven-snapshots/</url>

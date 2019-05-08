@@ -153,14 +153,14 @@
 	</build>
 	<distributionManagement>
    	 <repository>
-		 <id>Nexus-3.16</id>
-     		<name>maven-releases</name>
-      		<url>http://35.225.225.19:8081/repository/maven-releases/</url>
+		 
+     		<id>maven-releases</id>
+      		<url>http://104.154.149.0:8081/repository/maven-releases/</url>
     	 </repository>
     	<snapshotRepository>
-		<id>Nexus-3.16</id>
-      		<name>maven-snapshots</name>
-      		<url>http://35.225.225.19:8081/repository/maven-snapshots/</url>
+		
+      		<id>maven-snapshots</id>
+      		<url>http://104.154.149.0:8081/repository/maven-snapshots/</url>
     	</snapshotRepository>
   	</distributionManagement>
 </project>
